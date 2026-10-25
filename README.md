@@ -1,3 +1,8 @@
+developed by Sonika Sree 
+Intern Id -- CITS9872
+
+
+
 # E-Commerce Inventory Management System
 
 A runnable web app based on the uploaded SQL project documents. It includes product/category/supplier/customer management, stock adjustments, low-stock alerts, inventory valuation, customer orders, automatic stock deduction, and a read-only SQL query lab.
